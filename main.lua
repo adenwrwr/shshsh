@@ -20,7 +20,7 @@ local Teams = game:GetService("Teams")
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 
-local Repository = "https://raw.githubusercontent.com/coastss/universal/main/"
+local Repository = "https://raw.githubusercontent.com/adenwrwr/shshsh/main/"
 
 function shared:Kick(String)
     LocalPlayer:Kick("[beachwave]: " .. String)
