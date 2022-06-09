@@ -36,7 +36,7 @@ while true do
         game.Players.LocalPlayer:Kick("Do not try and spoof your key!")
     end
     wait()
-end
+end)
 local MoveMouse = mousemoverel
 local ReadFile = readfile
 local WriteFile = writefile
